@@ -1,0 +1,1418 @@
+body{
+	height: 100%;
+	width: 100%;
+	font-family: "Glegoo:400";
+
+
+} 
+.gp_products_item{
+padding-right: 15px;
+}
+.upsec{
+	background-color: #0f83b6;
+	min-height: 35px;
+}
+.list{
+	list-style: none;
+	float: right;
+	position: relative;
+	top: 5px;
+
+}
+.list li{
+	float: left;
+	padding-right:10px;
+	
+}
+.list a{
+	color: white;
+}
+.list a:hover{
+	color: red;
+	text-decoration: none;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img{
+	position: relative;
+	top: 0px;
+}
+.navbar-collapse{
+	position: relative;
+	top: 11px;
+}
+.down-sec{
+	background-color: #14b2fb;
+	position: relative;
+	height: 40px;
+}
+.down-sec h3{
+	color: white;
+	position: relative;
+	top: -10px;
+	left: 10px;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:-6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+
+}
+.dropdown-menu {
+    
+    background-color: #fff;
+    margin-top:-6px;
+    margin-left: -1px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+.dropdown h4{
+	color: white;
+	position: relative;
+	left: 10px;
+}
+.dropdown h4:hover{
+	color: yellow;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height:180px;
+     position: relative;
+    left: 0px;
+}
+.voice-plan{
+	position: relative;
+	top: 15px;
+}
+.voice-head span{
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+	font-size: 13px;
+}
+
+.input-group{
+	position: relative;
+	top: 2.5px;
+}
+.form-control{
+	height: 35px;
+}
+.main{
+	position: relative;
+	top:5px;
+}
+
+.asd{
+	position: relative;
+	top: 0px;
+}
+.category-list{
+	border-radius: 6px 6px 6px 6px;
+
+
+}
+.cat-list{
+	list-style: none;
+	font-size: 18px;
+	padding: 5px;
+	background-color: #cf5065;
+	border-radius: 6px 6px 6px 6px;
+	width: 90%;
+}
+
+.bottom-line {
+	position: relative;
+	border-bottom: 1px solid white;
+}
+.slider{
+	position: relative;
+	float: right;
+
+}
+#dlable h4:hover{
+	color: blue;
+}
+.cat-mobile h4{
+	color: white;
+}
+.cat-list a{
+	text-decoration: none;
+	color: white;
+}
+.cat-list a:hover{
+	text-decoration: none;
+	color:blue;
+}
+.dropdown-menu {
+    background-color: #cf5065;
+   margin-top: -26px;
+   margin-left: 270px;
+   
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height: 300px;
+ }
+ .f-section{
+	background-color: red;
+	position: relative;
+	height: 277px;
+	text-align: center;
+	border-radius:20px 20px 20px 20px;
+	border:5px solid gray;
+	position: relative;
+}
+.f-section{
+	width: 90%;
+}
+.fancy-number h4{
+	color: #fff
+}
+ .number-list{
+	overflow-y: scroll;
+	height: 180px;
+ }
+ .number{
+ 	list-style: none;
+ 	position: relative;
+ 	right: 10px;
+ }
+ .number a{
+ 	color:#fff;
+ 	text-decoration: none;
+ }
+ .voice-head {
+	position: relative;
+	height:40px;
+	background-color: #14b2fb;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+}
+.voice-head span{
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+}
+.buy {
+	position: relative;
+	text-align: center;
+	padding-bottom: 5px;
+
+}
+.sd {
+	margin-top: 1em;
+	border: 1px solid black;
+	height: 150px;
+	/*-webkit-box-shadow: 0px 4px 23px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 4px 23px 1px rgba(0,0,0,0.75);
+box-shadow: 0px 4px 23px 1px rgba(0,0,0,0.75);*/
+}
+.sd img {
+	margin-left: 1.7em;
+}
+.sd ul {
+	margin-right: 1em;
+	color: black;
+}
+.sd ul li {
+	font-size: 12px;
+	color: black;
+
+}
+.sd button {
+	margin-left: 1.5em;
+}
+/*sim carousel prepaid*/
+
+
+.prepaid-pd ul{
+	color: black;
+
+}
+.prepaid-pd ul li {
+	font-size: 12px;
+	padding-left: 30px;
+	color: black;
+}
+.prepaid-pd img {
+	margin-left: ;
+}
+.prepaid-pd i{
+	color: red;
+	font-size: 6px;
+	padding: 0px 10px 0px 0px;
+}
+.prepaid-pd button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px;
+
+}
+.prepaid-pd button i{
+	color: black;
+	font-size: 12px;
+	padding: 0px 0px 0px 0px; 
+}
+.prepaid-discount{
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 10px;	
+	text-align: center;
+}
+.prepaid-discount p {
+	font-size:18px;
+}
+/*end of prepaid sim carousel*/
+.postpaid-pd ul{
+	
+	color: black;
+}
+.postpaid-pd ul li {
+	font-size: 12px;
+	padding-left: 30px;
+	color: black;
+}
+.postpaid-pd img {
+	margin-left: ;
+}
+.postpaid-pd i{
+	color: red;
+	font-size: 6px;
+	padding: 0px 10px 0px 0px;
+}
+.postpaid-pd button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px; 
+}
+.postpaid-pd button i{
+	color: black;
+	font-size: 12px;
+	padding: 0px 0px 0px 0px;  
+}
+.postpaid-discount{
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 10px;	
+	text-align: center;
+}
+.postpaid-discount p {
+	font-size:18px;
+}
+.broadband-pdt a{
+	text-decoration: none;
+}
+.broadband-pdt a:hover{
+	text-decoration: none;
+}
+
+.broadband-pd ul{
+	
+	color: black;
+}
+.broadband-pd ul li {
+	font-size: 12px;
+	color: black;
+}
+.broadband-pd img {
+	margin-left: ;
+}
+
+.broadband-pd button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px; 
+}
+.broadband-pd button i{
+	color: black;
+	font-size: 12px; 
+}
+.broadband-discount{
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 10px;	
+	text-align: center;
+}
+.broadband-discount p {
+	font-size:18px;
+}
+.gp_products_inner a:hover{
+	text-decoration: none;
+}
+
+/*dth css*/
+
+.dth-pd ul{
+	
+	color: black;
+}
+
+.dth-pd ul li {
+	font-size: 12px;
+	color: black;
+}
+.dth-pd img {
+	margin-left: ;
+}
+.dth-pd button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px; 
+}
+.dth-pd button i{
+	color: black;
+	font-size: 12px; 
+}
+.dth-discount{
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 10px;	
+	text-align: center;
+}
+.dth-discount p {
+	font-size:18px;
+}
+
+/*datacard css*/
+.datacard-sec{
+	padding-bottom:20px; 
+}
+.datacard-pd ul{
+	
+	color: black;
+}
+.datacard-pd ul li {
+	font-size: 12px;
+	padding-left: 30px;
+	color: black;
+}
+.datacard-pd img {
+	margin-left: ;
+}
+.datacard-pd i{
+	color: red;
+	font-size: 6px;
+	padding: 0px 10px 0px 0px;
+}
+.datacard-pd button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px; 
+}
+.datacard-pd button i{
+	color: black;
+	font-size: 12px; 
+	padding: 0px 0px 0px 0px;
+}
+.data-discount{
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 10px;	
+	text-align: center;
+}
+.data-discount p {
+	font-size:18px;
+}
+
+.datacard-postpaid-pd ul{
+	
+	color: black;
+}
+.datacard-postpaid-pd ul li {
+	font-size: 12px;
+	padding-left: 30px;
+	color: black;
+}
+.datacard-postpaid-pd img {
+	margin-left: ;
+}
+.datacard-postpaid-pd i{
+	color: red;
+	font-size: 6px;
+	padding: 0px 10px 0px 0px;
+}
+.datacard-postpaid-pd button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px; 
+}
+.datacard-postpaid-pd button i{
+	color: black;
+	font-size: 12px;
+	padding: 0px 0px 0px 0px; 
+}
+.datapost-discount{
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 10px;	
+	text-align: center;
+}
+.datapost-discount p {
+	font-size:18px;
+}
+/*footer part css*/
+.footer{
+	
+	background-color: #0f83b6;
+	position: relative;
+	top: 4px;
+
+}
+.about h4{
+color: white;
+}
+.about ul li{
+color: white;
+list-style: none;
+text-decoration: none;
+}
+.about ul li a{
+color: white;
+font-size: 12px
+}
+.about ul li a:hover{
+color: yellow;
+text-decoration: none;
+}
+.service h4{
+color: white;
+}
+.service ul {
+color: white;
+list-style: none;
+text-decoration: none;
+}
+.service ul li a {
+color: white;
+font-size: 12px;
+
+}
+.service ul li a:hover {
+color: yellow;
+
+text-decoration: none;
+}
+.shipping h4{
+color: white;
+}
+.shipping ul li{
+color: white;
+list-style: none;
+}
+.shipping ul li a{
+color: white;
+font-size: 12px;
+}
+.shipping ul li a:hover{
+color: yellow;
+text-decoration: none;
+
+}
+.contact h4{
+color: white;
+}
+.contact p{
+color: white;
+list-style: none;
+font-size: 12px;
+text-decoration: none;
+}
+.bellow{
+	
+	
+}
+.bellow h5{
+	color: white;
+	position: relative;
+	
+	
+}	
+.bellow p{
+	color: white;
+	position: relative;
+	font-size: 12px;
+	left: 15px;
+}
+.bellow p a{
+	color: white;
+	font-size: 12px;
+	
+}
+.bellow p a:hover{
+	color:yellow;
+	font-size: 12px;
+	text-decoration: none;
+	
+}	
+.social{
+	float: right;
+	position: relative;
+	top: 20px;
+
+}
+.copyright{
+	color: white;
+	text-align: center;
+	line-height: 10px
+}
+/*end of footer part css*/
+/*home page css end*/
+/*description page css start here*/
+.upper-part h3{
+	text-align: center;
+	color: blue;
+}
+.small-description ul{
+ list-style: none;
+ float: right;
+}
+.small-description ul li i{
+	color: red;
+	padding-right: 10px;
+	font-size: 8px;
+}
+.price-offer ul{
+	list-style: none;
+	float: right;
+	font-weight: bold;
+	color: blue;
+	position: relative;
+	top: 100px;
+}
+.as{
+	float: right;
+	margin-top: 20px;
+}
+.as button{
+	padding-right: 20px;
+}
+.as span{
+padding-left: 30px;
+}
+.simplan-description h3{
+	color: #f34a00;
+}
+.freebies{
+border: 1px solid black;	
+
+}
+.freebies ul{
+	list-style: none;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+.freebies h4{
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+.freebies  li{
+	list-style: none;
+	background-color: #ececec;
+	text-align: center;
+	margin-top: 5px;
+
+}
+.freebies li span{
+	list-style: none;
+	color: red;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+.local{
+border: 1px solid black;	
+
+}
+.local ul{
+	list-style: none;
+	padding-left: 0px;
+}
+.local h4{
+	color: white;
+	background-color: gray;
+	text-align: center;
+}
+.local  li{
+	list-style: none;
+	background-color: #ececec;
+	text-align: center;
+	margin-top: 5px;
+
+}
+.local li span{
+	list-style: none;
+	color: red;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+
+.std{
+border: 1px solid black;	
+
+}
+.std ul{
+	list-style: none;
+	padding-left: 0px;
+}
+.std h4{
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+.std  li{
+	list-style: none;
+	background-color: #ececec;
+	text-align: center;
+	margin-top: 5px;
+
+}
+.std li span{
+	list-style: none;
+	color: red;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+.roaming{
+border: 1px solid black;	
+
+}
+.roaming ul{
+	list-style: none;
+	padding-left: 0px;
+}
+.roaming h4{
+	color: white;
+	background-color: gray;
+	text-align: center;
+}
+.roaming  li{
+	list-style: none;
+	background-color: #ececec;
+	text-align: center;
+	margin-top: 5px;
+
+}
+.roaming li span{
+	list-style: none;
+	color: red;
+	font-weight: bold;
+	font-size: 12px;
+
+}
+
+.relative-simcards h3{
+	text-align: center;
+	color: #f34a00;
+}
+.relative-product ul{
+	color: black;
+
+}
+.relative-product ul li {
+	font-size: 12px;
+	padding-left: 30px;
+}
+.relative-product img {
+	margin-left: ;
+}
+.relative-product i{
+	color: red;
+	font-size: 6px;
+	padding: 0px 10px 0px 0px;
+}
+.relative-product button{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 5px;
+
+}
+.relative-product button i{
+	color: black;
+	font-size: 12px;
+	padding: 0px 0px 0px 0px; 
+}
+
+.sim-customer-review h3{
+	color: #990000
+}
+
+.sim-review-button button{
+	background-color: #cc3300;
+	float: right;
+	color: black;
+
+}
+.sim-review-button button:hover{
+	background-color: #ff0000;
+}
+.product-star button{
+	background-color: #0099ff;
+	color: black;
+	float: right;
+}
+.product-star button:hover{
+	background-color:#c44dff;
+}
+/*end of sim description page css*/
+/* sim compare page css start here*/
+.main-page{
+	background-color: #3b8399;
+	position: relative;
+	top: 2px; 
+}
+.main-page h3{
+	color: white;
+	text-align: center;
+}
+
+.compare-lable{
+	color:#c1d5e0;
+	font-weight: bold;
+	text-align: center;
+}
+.table-bordered td{
+	text-align: center;
+	color: white;
+	padding: 5px;
+}
+
+.l-as{
+	background:#cccccc;
+	font-weight: bold;
+}
+
+/*end of sim compare page css*/
+/*broadband css compare page*/
+.broadband-main-page{
+ background:#3b8399;
+ position: relative;
+ top: 2px;
+}
+.broadband-main-page h3{
+ text-align: center;
+ color: white;
+}
+.bd-compare-lable{
+	color:#c1d5e0;
+	font-weight: bold;
+	text-align: center; 
+}
+.bd-price{
+	background-color: #cccccc;
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+}
+
+/*end of broadband css compare page*/
+/*css for datacard compare page start*/
+.datacard-main-page{
+	background:#3b8399;
+	position: relative;
+	top: 2px;
+}
+.datacard-main-page h3{
+	text-align: center;
+	color: white;
+}
+
+.dc-compare-lable{
+	color:#c1d5e0;
+	font-weight: bold;
+	text-align: center; 
+}
+.dc-price{
+	background-color: #cccccc;
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+}
+
+/*css for datacard compare page end*/
+/*css for dth compare page start*/
+.dth-main-page{
+	background:#3b8399;
+	position: relative;
+	top: 2px;
+}
+.dth-main-page h3{
+	text-align: center;
+	color: white;
+}
+
+.dth-compare-lable{
+	color:#c1d5e0;
+	font-weight: bold;
+	text-align: center; 
+}
+
+.dth-price{
+	background-color:#cccccc;
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+}
+
+/*css for dth compare page end*/
+/*scroll-top button css*/
+.scroll_top {
+    width: 34px;
+    height: 34px;
+    position: fixed;
+    display: none;
+    font-size:18px;
+    z-index: 9999;
+    right: 10px;
+    bottom: 32px;
+    background: #00ff00;
+    border-radius: 50%;
+}
+.scroll_top i{
+color: white;
+position: relative;
+left: 9px;
+top: 4px;
+}
+/*END:scroll-top button css*/
+
+
+
+
+
+
+
+
+
+@media(min-width: 275px) and (max-width: 992px){
+
+.prepaid-pd ul {
+	color: black;
+	text-align: center;
+}
+.postpaid-pd ul{
+	text-align: center;
+	color: black;
+}
+.prepaid-pd p{
+	text-align: center;
+}
+.button{
+	text-align: center;
+}
+.button1{
+	text-align: center;
+}
+.broadband-pd{
+	text-align: center;
+}
+.dth-pd ul {
+	color: black;
+	text-align: center;
+}
+.datacard-pd ul {
+	color: black;
+	text-align: center;
+}
+.datacard-postpaid-pd ul {
+	color: black;
+	text-align: center;
+}
+.relative-product ul {
+	color: black;
+	text-align: center;
+}
+
+}
+
+
+
+
+
+@media (min-width:380px) and (max-width:768px){
+
+.list{
+	list-style: none;
+	float: left;
+	position: relative;
+	top: 5px;
+
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:-6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+
+}
+.dropdown-menu {
+    
+    background-color: #fff;
+    margin-top:-6px;
+    margin-left: -1px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+.dropdown h4{
+	color: white;
+	position: relative;
+	left: 10px;
+}
+.dropdown h4:hover{
+	color: yellow;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height:180px;
+     position: relative;
+    left: 0px;
+}
+.voice-plan{
+	position: relative;
+	top: 15px;
+}
+.voice-head span{
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+	font-size: 13px;
+}
+.f-section{
+	background-color: red;
+	position: relative;
+	height: 300px;
+	text-align: center;
+	border-radius:20px 20px 20px 20px;
+	border:5px solid gray;
+	position: relative;
+	left: 19px;
+	top: 9px;
+}
+.category{
+	display: none;
+}
+.category-list{
+display: none;
+}
+.sim-product3{
+	position: relative;
+	top: 20px;
+}
+.sidebar{
+	display: none;
+}
+.rsidebar{
+		padding-left:10px; 
+}
+.rsubscription h5{
+	color: red;
+}
+.rproduct h5{
+	color: red;
+}
+.roperator h5{
+	color: red;
+}
+.rplans h5{
+	color: red;
+}
+.rbudget h5{
+	color: red;
+}
+.small-description ul{
+ list-style: none;
+ float: left;
+}
+.price-offer ul{
+	list-style: none;
+	float: left;
+	position: relative;
+	top: 0px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px ) and (max-width: 1600px){
+	.rsidebar{
+		display: none;
+	}
+	.cat-mobile{
+		display:none;
+	}
+}
+
+
+
+@media (min-width: 768px) and (max-width: 960px){
+
+.sim-product1 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product1 button{
+	font-size: 10px;
+}
+.sim-product2 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product2 button{
+	font-size: 10px;
+}
+.sim-product3 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product3 button{
+	font-size: 10px;
+}
+.sim-product4 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product4 button{
+	font-size: 10px;
+}
+.sim-product5 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product5 button{
+	font-size: 10px;
+}
+.sim-product6 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product6 button{
+	font-size: 10px;
+}
+.sim-product7 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product7 button{
+	font-size: 10px;
+}
+.sim-product8 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product8 button{
+	font-size: 10px;
+}
+.sim-product9 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product9 button{
+	font-size: 10px;
+}
+.sim-product10 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product10 button{
+	font-size: 10px;
+}
+.sim-product11 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product11 button{
+	font-size: 10px;
+}
+.sim-product12 ul {
+	color: black;
+	font-size: 12px;
+}
+.sim-product12 button{
+	font-size: 10px;
+}
+}
+
+
+@media (min-width: 275px) and (max-width:380px){
+
+.dropdown-submenu {
+    position: relative;
+
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:25px;
+    margin-left:-180px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height:150px;
+    position: relative;
+    left: 0px;
+}
+.voice-plan{
+	position: relative;
+	top: 15px;
+}
+.voice-head span{
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+	font-size: 12px;
+}
+.sidebar{
+	display: none;
+}
+.f-section{
+	background-color: red;
+	position: relative;
+	height: 300px;
+	text-align: center;
+	border-radius:20px 20px 20px 20px;
+	border:5px solid gray;
+	position: relative;
+	left: 19px;
+	top: 9px;
+}
+.sim-product3{
+	margin-top: 20px;
+}
+.small-description ul{
+ list-style: none;
+ float: left;
+}
+.price-offer ul{
+	list-style: none;
+	float: left;
+	position: relative;
+	top: 0px;
+}
+.freebies-air-time{
+	font-size: 12px;
+}
+.freebies-air-time span{
+	
+	font-size: 12px;
+}
+.freebies-sms{
+	font-size: 12px;
+}
+.freebies-sms span{
+	font-size: 12px;
+}
+.freebies-data{
+	font-size: 12px;
+}
+.freebies-data span{
+	font-size: 12px;
+}
+.freebies-null1{
+	font-size: 12px;
+}
+.freebies-null1 span{
+	font-size: 12px;
+}
+.freebies-null2{
+	font-size: 12px;
+}
+.freebies-null2 span{
+	font-size: 12px;
+}
+
+.local-own{
+	font-size: 12px;
+}
+.local-own span{
+	font-size: 12px;
+}
+.local-other{
+	font-size: 12px;
+}
+.local-other span{
+	font-size: 12px;
+}
+.local-land{
+	font-size: 12px;
+}
+.local-land span{
+	font-size: 12px;
+}
+.local-sms{
+	font-size: 12px;
+}
+.local-sms span{
+	font-size: 12px;
+}
+.local-net{
+	font-size: 12px;
+}
+.local-net span{
+	font-size: 12px;
+}
+
+.std-own{
+	font-size: 12px;
+}
+.std-own span{
+	font-size: 12px;
+}
+.std-other{
+	font-size: 12px;
+}
+.std-other span{
+	font-size: 12px;
+}
+.std-land{
+	font-size: 12px;
+}
+.std-land span{
+	font-size: 12px;
+}
+.std-sms{
+	font-size: 12px;
+}
+.std-sms span{
+	font-size: 12px;
+}
+.std-net{
+	font-size: 12px;
+}
+.std-net span{
+	font-size: 12px;
+}
+
+.roaming-incoming{
+	font-size: 12px;	
+}
+.roaming-incoming span{
+	font-size: 12px;
+}
+.roaming-lo{
+	font-size: 12px;
+}
+.roaming-lo span{
+	font-size: 12px;
+}
+.roaming-so{
+	font-size: 12px;
+}
+.roaming-so span{
+	font-size: 12px;
+}
+.roaming-sms{
+	font-size: 12px;
+}
+.roaming-sms span{
+	font-size: 12px;
+}
+.roaming-net{
+	font-size: 12px;
+}
+.roaming-net span{
+	font-size: 12px;
+}
+
+}
